@@ -1,4 +1,3 @@
-# Taimur Siddiqi
 ## Data & Reporting Analyst
 
 **Technical Skills:**  
@@ -6,7 +5,7 @@
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### Data & Reporting Analyst  
 **Didi Hirsch Mental Health Services** | *December 2022 – Present*
@@ -16,8 +15,6 @@
 - Automate data collection and reporting workflows through custom R scripts integrated with the organization’s EMR system.
 - Transform complex datasets into clear, actionable insights for cross-functional teams.
 - Write and optimize high-performance queries on large datasets while ensuring data integrity and accuracy.
-
----
 
 ### Data Analyst & Simulation Technician  
 **UCLA Health** | *January 2020 – December 2022*
@@ -29,7 +26,7 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.S. in Chemistry**  
 University of California, Los Angeles  
@@ -39,7 +36,7 @@ Coursera
 
 ---
 
-## 📊 Projects
+## Projects
 
 ### Wikipedia Data Automation
 - Built Selenium scripts to automate Wikipedia data collection.
