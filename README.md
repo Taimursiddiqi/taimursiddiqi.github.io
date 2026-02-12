@@ -1,54 +1,54 @@
-# Data and Reporting Analyst
+# Taimur Siddiqi
+## Data & Reporting Analyst
 
-#### Technical Skills: SQL, R, Python, PowerBI, Tableau
+**Technical Skills:**  
+`SQL` • `R` • `Python` • `Power BI` • `Tableau` • `SSMS` • `Amazon Redshift` • `Excel` • `Qualtrics`
 
-### Work Experience
-Data and Reporting Analyst @ Didi Hirsch (December 2022 — Present)
-  
-  — Orchestrates the development and management of reporting dashboards, visualizations, and
-  paginated reports, empowering staff members with actionable insights.
-  
-  — Harnesses a versatile toolkit encompassing R, SQL, Python, SSMS, Amazon Redshift and
-  PowerBI to deliver dynamic and intuitive reporting solutions.
-  
-  — Spearheads the automation of data collection processes by crafting reporting scripts in R,
-  seamlessly integrating with our Electronic Medical Record (EMR) system.
-  
-  — Transforms raw data into insightful charts and tables tailored for leadership, fostering data-driven
-  decision-making across the organization.
-  
-  — Executes precision-engineered queries on expansive datasets, ensuring optimal performance and
-  data integrity.
+---
 
-Data Analyst and Simulation Technician @ UCLA Health (January 2020– Dec 2022)
-  
-  — Directed the creation, programming, assembly, and troubleshooting of immersive medical
-  scenarios tailored for medical students, nursing students, and healthcare professionals within the
-  UCLAHealth system.
-  
-  — Applied analytical methodologies to assess student development and gauge the efficacy of
-  educational interventions by utilizing a comprehensive suite of Business Intelligence (BI) tools
-  including Excel, Qualtrics, SQL and Tableau.
-  
-  — Facilitated evidence-based decision-making and catalyzed tangible improvements in student
-  learning outcomes and satisfaction levels through curriculum enhancements.
-  
-  — Pioneered the integration of Virtual Reality (VR) and Augmented Reality (AR) simulation
-  technologies into the medical student curriculum, revolutionizing the learning experience and
-  fostering a new era of immersive medical education.
+## 💼 Work Experience
 
-### Education
-Chemistry, BS @ University of California, Los Angeles
+### Data & Reporting Analyst  
+**Didi Hirsch Mental Health Services** | *December 2022 – Present*
 
-Google Data Analytics Professional Certificate @ Coursera
+- Design and maintain interactive dashboards, visualizations, and paginated reports to support operational and leadership decision-making.
+- Develop reporting solutions using R, SQL, Python, SSMS, Amazon Redshift, and Power BI.
+- Automate data collection and reporting workflows through custom R scripts integrated with the organization’s EMR system.
+- Transform complex datasets into clear, actionable insights for cross-functional teams.
+- Write and optimize high-performance queries on large datasets while ensuring data integrity and accuracy.
 
-### Projects
-  — Engineered Selenium scripts to streamline the collection of Wikipedia data, automating the
-  process and efficiently exporting the insights as .csv files to increase data accessibility.
-  
-  — Utilized logistic regression machine learning models in Python to forecast monthly bike rental
-  revenue for the vibrant city of Austin, Texas for a thesis project.
-  
-  — Employed Rprogramming to conduct in-depth analysis on the daily usage patterns and activities
-  of FitBit users, generating actionable insights to guide strategic business decisions for a leading
-  wearable smart device company
+---
+
+### Data Analyst & Simulation Technician  
+**UCLA Health** | *January 2020 – December 2022*
+
+- Designed, programmed, assembled, and maintained immersive medical simulation scenarios for students and healthcare professionals.
+- Applied analytics to evaluate student performance and educational effectiveness using Excel, Qualtrics, SQL, and Tableau.
+- Supported evidence-based curriculum improvements that enhanced student learning outcomes and satisfaction.
+- Led integration of Virtual Reality (VR) and Augmented Reality (AR) technologies into medical education programs.
+
+---
+
+## 🎓 Education
+
+**B.S. in Chemistry**  
+University of California, Los Angeles  
+
+**Google Data Analytics Professional Certificate**  
+Coursera  
+
+---
+
+## 📊 Projects
+
+### Wikipedia Data Automation
+- Built Selenium scripts to automate Wikipedia data collection.
+- Cleaned and exported structured datasets to `.csv` format for analysis and accessibility.
+
+### Austin Bike Rental Revenue Forecasting
+- Developed logistic regression models in Python to forecast monthly bike rental revenue.
+- Conducted exploratory data analysis and feature engineering to improve model performance.
+
+### FitBit User Behavior Analysis
+- Performed in-depth behavioral analysis in R on daily FitBit usage data.
+- Generated strategic insights to inform business decision-making for a wearable technology company.
