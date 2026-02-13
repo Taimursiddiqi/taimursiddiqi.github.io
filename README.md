@@ -46,6 +46,8 @@ Coursera
 - Developed logistic regression models in Python to forecast monthly bike rental revenue.
 - Conducted exploratory data analysis and feature engineering to improve model performance.
 
-### FitBit User Behavior Analysis
+<h3>
+  <a href="https://www.kaggle.com/code/taimursiddiqi/bellabeat-capstone-project">FitBit User Behavior Analysis</a>
+</h3>
 - Performed in-depth behavioral analysis in R on daily FitBit usage data.
 - Generated strategic insights to inform business decision-making for a wearable technology company.
