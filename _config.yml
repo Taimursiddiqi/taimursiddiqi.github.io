@@ -5,6 +5,11 @@ description: >
     
     View My Kaggle Profile
   </a>
+  <br>
+    <a href="https://www.linkedin.com/in/taimur-siddiqi/" target="_blank">
+    
+    View My LinkedIn Profile
+  </a>
 #*description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
